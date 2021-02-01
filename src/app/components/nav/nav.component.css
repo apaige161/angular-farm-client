@@ -1,20 +1,7 @@
 #mainNav {
-    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-    background-color: #fff;
-    transition: background-color 0.2s ease;
-  }
-.navbar-nav {
-    font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    font-weight: 700;
-    color: #212529;
-
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: flex-start;
-  }
-
-  .nav-item{
-      align-self: flex-start;
-      padding: 4%;
-  }
+  background-color: #f4623a;
+  color:bisque;
+  opacity: 85%;
+  font-weight: bolder;
+  height: 100px;
+}

@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "sunny-hills-farm",
+    "public": "dist/farm-client",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
